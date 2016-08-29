@@ -4,3 +4,9 @@ Project utilizes css from turretcss framework.
 This is a file to customize the site further.
 Author: Tobias Årud
 */
+
+.gallery-content img{
+	object-fit: cover;
+	height: 200px;
+	margin: 1.5em 0;
+}
